@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Administrator\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Administrator\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Administrator\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Administrator\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\bin\zhiming_web.dll.config
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\bin\zhiming_web.dll
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\bin\zhiming_web.pdb
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\obj\Debug\zhiming_web.dll
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\obj\Debug\zhiming_web.pdb
+C:\Users\Administrator\source\repos\zhiming_web\zhiming_web\obj\Debug\zhiming_web.csprojResolveAssemblyReference.cache

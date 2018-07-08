@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/WebService1.asmx" hash="78ee7239" filehash="ffffd5278dcde235" flags="130000" assembly="zhiming_web" type="zhiming_web.WebService1">
+    <filedeps>
+        <filedep name="/WebService1.asmx" />
+    </filedeps>
+</preserve>
